@@ -10,9 +10,6 @@ Aplicaci√≥n web interactiva que simula procesos clave de SAP MM, como la creaci√
 
 ## Uso
 
-1. Clona el repositorio.
-2. Abre `src/index.html` en tu navegador.
-
 ---
 
 ## Capturas de pantalla
